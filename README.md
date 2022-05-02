@@ -1,5 +1,7 @@
 # metrobus
 
+![Diagrama General](solucion1.png)
+
 1. Levantar la imagen con el docker-compose.
 
 2. Correr el bash de 'setup.sh' para restablecer los datos de la bd "cdMexico" (previamente creada en la imagen).
