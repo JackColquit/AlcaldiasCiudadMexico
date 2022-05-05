@@ -25,6 +25,6 @@ python3 metrobus.py
 
   ```bash
   Luis Roberto Azaar Meza
-  e-mail 1: luisro5@hotmail.com
+  e-mail 1: robertoazaar@gmail.com
   e-mail 2: rigel1357@yahoo.com
   ```
