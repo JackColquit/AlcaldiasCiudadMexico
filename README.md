@@ -9,7 +9,7 @@
 3. En la maquina de host instalar el conector de python con el siguiente comando:
 
 ```bash
-pip3 install mysql-connector-python.
+pip3 install mysql-connector-python
 ```
 Correr en el host:
 
